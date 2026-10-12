@@ -3,6 +3,7 @@ message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "prep2go-exam-facts: Citizenship language exam facts (CIPLE, DELE, DELF, CELI)"
 version: 1.0.0
+doi: 10.5281/zenodo.23322073
 date-released: 2026-10-12
 authors:
   - name: Prep2Go

@@ -1,5 +1,7 @@
 # prep2go-exam-facts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322073.svg)](https://doi.org/10.5281/zenodo.23322073)
+
 Open, source-linked facts about the language exams people take for **citizenship and residency** in Portugal, Spain, France and Italy: CIPLE A2, DELE A2 + CCSE, DELF A2/B1/B2 and CELI 2 (B1). Each record has the exam format (sections, durations, weights), the pass rule, fee (with country), official 2026 dates, who accepts it, an **official** `source_url` and a `verified_on` date. Anything we could not verify on an official page is `null`.
 
 - Data: [`data/facts.json`](data/facts.json) · [`data/facts.csv`](data/facts.csv) · [`data/requirements.csv`](data/requirements.csv)
