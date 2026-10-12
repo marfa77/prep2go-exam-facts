@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "prep2go-exam-facts: Citizenship language exam facts (CIPLE, DELE, DELF, CELI)"
+version: 1.0.0
+date-released: 2026-10-12
+authors:
+  - name: Prep2Go
+    website: https://www.prep2go.study
+license: CC-BY-4.0
+repository-code: https://github.com/marfa77/prep2go-exam-facts
+url: https://marfa77.github.io/prep2go-exam-facts/
+keywords: [CIPLE, DELE, DELF, CELI, citizenship, language requirement, exam prep, open data]
+abstract: "Source-linked facts on immigration language exams (format, pass rules, fees, 2026 dates) and citizenship/residency language levels for Portugal, Spain, France and Italy."

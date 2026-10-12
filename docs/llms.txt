@@ -1,0 +1,20 @@
+# prep2go-exam-facts
+
+> Open, source-linked facts on citizenship/residency language exams (CIPLE A2, DELE A2 + CCSE, DELF A2/B1/B2, CELI 2 B1) and language levels required for Portugal, Spain, France and Italy. Last verified 2026-10-12. Null = not verifiable from an official source.
+
+## Data
+- [facts.json](https://marfa77.github.io/prep2go-exam-facts/facts.json): all exams and requirements
+- [facts.csv](https://marfa77.github.io/prep2go-exam-facts/facts.csv): exams table
+- [requirements.csv](https://marfa77.github.io/prep2go-exam-facts/requirements.csv): citizenship/residency levels
+
+## Key facts
+- CIPLE A2: pass 55% overall, no per-section minimum; fee €95; Nov 2026 sitting 5 Nov (7 Nov LAPE-FLUL Lisbon), registration closes 20 Oct 2026.
+- DELE A2: pass = at least 30/50 in each of two groups; Spain 2026 fee €138; Spanish nationality also needs CCSE (€85).
+- DELF: 50/100 overall, at least 5/25 per paper. France since 1 Jan 2026: A2 multi-year card, B1 resident card, B2 naturalisation.
+- CELI 2 (B1): at least 72/120 written and 22/40 oral. Italy citizenship requires B1.
+
+## Practice
+- [CIPLE A2 mocks](https://ciple.prep2go.study/ciple-a2)
+- [DELE A2 mocks](https://dele.prep2go.study/dele-a2)
+- [DELF A2 mocks](https://delf.prep2go.study/delf-a2)
+- [CELI 2 guide and mocks](https://celi.prep2go.study/celi-2-guide)

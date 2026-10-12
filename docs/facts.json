@@ -1,0 +1,455 @@
+{
+  "dataset": "prep2go-exam-facts",
+  "version": "1.0.0",
+  "verified_on": "2026-10-12",
+  "license": "CC-BY-4.0",
+  "notes": "Values are taken from official exam-board or government pages. null = could not be verified from an official source on the verified date.",
+  "exams": [
+    {
+      "id": "ciple-a2",
+      "name": "CIPLE (Certificado Inicial de Português Língua Estrangeira)",
+      "language": "Portuguese (European)",
+      "cefr": "A2",
+      "issuer": "CAPLE, Faculdade de Letras da Universidade de Lisboa",
+      "sections": [
+        {
+          "name": "Reading + Written production/interaction",
+          "duration_min": 75,
+          "weight_pct": 45
+        },
+        {
+          "name": "Listening",
+          "duration_min": 30,
+          "weight_pct": 30
+        },
+        {
+          "name": "Speaking",
+          "duration_min": 15,
+          "weight_pct": 25
+        }
+      ],
+      "total_duration": "about 2 hours (+15 min break)",
+      "pass_rule": "55% overall (CAPLE classification scale 55-100%). No per-section minimum.",
+      "partial_retake": false,
+      "fee": {
+        "amount": 95,
+        "currency": "EUR",
+        "country": "CAPLE fee (all centres)"
+      },
+      "dates_2026": [
+        {
+          "sitting": "November 2026 (international)",
+          "exam_date": "2026-11-05",
+          "registration_closes": "2026-10-20"
+        },
+        {
+          "sitting": "November 2026 at LAPE-FLUL Lisbon",
+          "exam_date": "2026-11-07",
+          "registration_closes": "2026-10-20"
+        }
+      ],
+      "accepted_for": "Proof of Portuguese language for Portuguese nationality (naturalisation) under the Regulamento da Nacionalidade (DL 237-A/2006). Lei Orgânica 1/2026 (in force 2026-05-19) adds culture/history/civic knowledge requirements; the implementing regulation had not been updated by the verified date.",
+      "source_url": "https://caple.letras.ulisboa.pt/exame/2/ciple",
+      "extra_sources": [
+        "https://www.iclp.letras.ulisboa.pt/calendario-de-exames-caple/",
+        "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+      ],
+      "practice_url": "https://ciple.prep2go.study/ciple-a2",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "dele-a2",
+      "name": "DELE A2 (Diploma de Español como Lengua Extranjera)",
+      "language": "Spanish",
+      "cefr": "A2",
+      "issuer": "Instituto Cervantes",
+      "sections": [
+        {
+          "name": "Reading comprehension",
+          "duration_min": 60,
+          "points": 25,
+          "group": 1
+        },
+        {
+          "name": "Listening comprehension",
+          "duration_min": 40,
+          "points": 25,
+          "group": 2
+        },
+        {
+          "name": "Written expression and interaction",
+          "duration_min": 45,
+          "points": 25,
+          "group": 1
+        },
+        {
+          "name": "Oral expression and interaction",
+          "duration_min": 12,
+          "prep_min": 12,
+          "points": 25,
+          "group": 2
+        }
+      ],
+      "total_duration": null,
+      "pass_rule": "APTO requires at least 30/50 in Group 1 (reading + writing) AND at least 30/50 in Group 2 (listening + speaking). Max 100 points.",
+      "partial_retake": false,
+      "fee": {
+        "amount": 138,
+        "currency": "EUR",
+        "country": "Spain (2026)"
+      },
+      "dates_2026": [
+        {
+          "sitting": "February",
+          "exam_date": "2026-02-13",
+          "registration_closes": "2026-01-07"
+        },
+        {
+          "sitting": "April",
+          "exam_date": "2026-04-17",
+          "registration_closes": "2026-02-25"
+        },
+        {
+          "sitting": "May",
+          "exam_date": "2026-05-23",
+          "registration_closes": "2026-04-08"
+        },
+        {
+          "sitting": "October",
+          "exam_date": "2026-10-17",
+          "registration_closes": "2026-09-02"
+        },
+        {
+          "sitting": "November",
+          "exam_date": "2026-11-13",
+          "registration_closes": "2026-09-30"
+        }
+      ],
+      "accepted_for": "Spanish nationality by residence: DELE A2 or higher (unless exempt) plus the CCSE test.",
+      "source_url": "https://examenes.cervantes.es/es/dele/examenes/a2",
+      "extra_sources": [
+        "https://examenes.cervantes.es/es/dele/como",
+        "https://examenes.cervantes.es/sites/default/files/ic-tabla-precios-dele-2026.pdf",
+        "https://examenes.cervantes.es/es/dele/cuando"
+      ],
+      "practice_url": "https://dele.prep2go.study/dele-a2",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "ccse",
+      "name": "CCSE (Conocimientos Constitucionales y Socioculturales de España)",
+      "language": "Spanish",
+      "cefr": null,
+      "issuer": "Instituto Cervantes",
+      "sections": null,
+      "total_duration": null,
+      "pass_rule": null,
+      "partial_retake": null,
+      "fee": {
+        "amount": 85,
+        "currency": "EUR",
+        "country": "All (includes up to 2 attempts)"
+      },
+      "dates_2026": [
+        {
+          "sitting": "October",
+          "exam_date": "2026-10-29",
+          "registration_closes": "2026-10-08"
+        },
+        {
+          "sitting": "November",
+          "exam_date": "2026-11-26",
+          "registration_closes": "2026-11-05"
+        }
+      ],
+      "accepted_for": "Spanish nationality by residence (together with DELE A2+). Held only in Spain.",
+      "source_url": "https://examenes.cervantes.es/es/ccse/cuanto",
+      "extra_sources": [
+        "https://examenes.cervantes.es/es/ccse/cuando"
+      ],
+      "practice_url": null,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "delf-a2",
+      "name": "DELF A2 tout public (Diplôme d'études en langue française)",
+      "language": "French",
+      "cefr": "A2",
+      "issuer": "France Éducation international (French Ministry of Education)",
+      "sections": [
+        {
+          "name": "Listening",
+          "duration_min": 25,
+          "points": 25
+        },
+        {
+          "name": "Reading",
+          "duration_min": 30,
+          "points": 25
+        },
+        {
+          "name": "Writing",
+          "duration_min": 45,
+          "points": 25
+        },
+        {
+          "name": "Speaking",
+          "duration_min": "6-8",
+          "prep_min": 10,
+          "points": 25
+        }
+      ],
+      "total_duration": null,
+      "pass_rule": "At least 50/100 overall and at least 5/25 in each of the 4 papers (below 5/25 is eliminatory).",
+      "partial_retake": false,
+      "fee": null,
+      "dates_2026": null,
+      "accepted_for": "Proof of French A2 for a first multi-year residence card (carte de séjour pluriannuelle) since 2026-01-01.",
+      "source_url": "https://www.france-education-international.fr/document/manuel-candidat-delf-a2",
+      "extra_sources": [
+        "https://www.france-education-international.fr/diplome/delf-tout-public"
+      ],
+      "practice_url": "https://delf.prep2go.study/delf-a2",
+      "verified_on": "2026-10-12",
+      "fee_note": "Set by each exam centre; no single official fee."
+    },
+    {
+      "id": "delf-b1",
+      "name": "DELF B1 tout public (Diplôme d'études en langue française)",
+      "language": "French",
+      "cefr": "B1",
+      "issuer": "France Éducation international (French Ministry of Education)",
+      "sections": [
+        {
+          "name": "Listening",
+          "duration_min": 25,
+          "points": 25
+        },
+        {
+          "name": "Reading",
+          "duration_min": 45,
+          "points": 25
+        },
+        {
+          "name": "Writing",
+          "duration_min": 45,
+          "points": 25
+        },
+        {
+          "name": "Speaking",
+          "duration_min": 15,
+          "prep_min": 10,
+          "points": 25
+        }
+      ],
+      "total_duration": null,
+      "pass_rule": "At least 50/100 overall and at least 5/25 in each of the 4 papers (below 5/25 is eliminatory).",
+      "partial_retake": false,
+      "fee": null,
+      "dates_2026": null,
+      "accepted_for": "Proof of French B1 for a first 10-year resident card (carte de résident) since 2026-01-01.",
+      "source_url": "https://www.france-education-international.fr/document/manuel-candidat-delf-b1",
+      "extra_sources": [
+        "https://www.france-education-international.fr/diplome/delf-tout-public"
+      ],
+      "practice_url": null,
+      "verified_on": "2026-10-12",
+      "fee_note": "Set by each exam centre; no single official fee."
+    },
+    {
+      "id": "delf-b2",
+      "name": "DELF B2 tout public (Diplôme d'études en langue française)",
+      "language": "French",
+      "cefr": "B2",
+      "issuer": "France Éducation international (French Ministry of Education)",
+      "sections": [
+        {
+          "name": "Listening",
+          "duration_min": 30,
+          "points": 25
+        },
+        {
+          "name": "Reading",
+          "duration_min": 60,
+          "points": 25
+        },
+        {
+          "name": "Writing",
+          "duration_min": 60,
+          "points": 25
+        },
+        {
+          "name": "Speaking",
+          "duration_min": 20,
+          "prep_min": 30,
+          "points": 25
+        }
+      ],
+      "total_duration": null,
+      "pass_rule": "At least 50/100 overall and at least 5/25 in each of the 4 papers (below 5/25 is eliminatory).",
+      "partial_retake": false,
+      "fee": null,
+      "dates_2026": null,
+      "accepted_for": "Naturalisation requires B2 oral and written since 2026-01-01; DELF B2 is a CEFR B2 diploma (check the accepted-document list on service-public.gouv.fr).",
+      "source_url": "https://www.france-education-international.fr/document/manuel-candidat-delf-B2",
+      "extra_sources": [
+        "https://www.france-education-international.fr/diplome/delf-tout-public"
+      ],
+      "practice_url": "https://delf.prep2go.study/delf-b2-mock-test",
+      "verified_on": "2026-10-12",
+      "fee_note": "Set by each exam centre; no single official fee."
+    },
+    {
+      "id": "celi-2-b1",
+      "name": "CELI 2 (Certificato di Conoscenza della Lingua Italiana, livello B1)",
+      "language": "Italian",
+      "cefr": "B1",
+      "issuer": "CVCL, Università per Stranieri di Perugia",
+      "sections": [
+        {
+          "name": "Reading (Part A)",
+          "weight_pct": 25,
+          "points": 40,
+          "booklet": 1
+        },
+        {
+          "name": "Writing (Part B)",
+          "weight_pct": 25,
+          "points": 40,
+          "booklet": 1
+        },
+        {
+          "name": "Listening (Part C)",
+          "duration_min": 20,
+          "weight_pct": 25,
+          "points": 40
+        },
+        {
+          "name": "Speaking",
+          "duration_min": "10-12",
+          "prep_min": 12,
+          "weight_pct": 25,
+          "points": 40
+        }
+      ],
+      "total_duration": "Booklet 1 (reading + writing) 2 h; listening 20 min; oral ~10-12 min",
+      "pass_rule": "At least 72/120 in the written test and at least 22/40 in the oral; pass band 94-160 (grades A/B/C).",
+      "partial_retake": true,
+      "partial_retake_note": "If only the written or only the oral is passed, the result can be carried for one year and only the failed part retaken (70% of the fee).",
+      "fee": [
+        {
+          "amount": 120,
+          "currency": "EUR",
+          "country": "Italy - Perugia centre, CELI Standard (Mar/Jun/Nov)"
+        },
+        {
+          "amount": 65,
+          "currency": "EUR",
+          "country": "Italy - Perugia centre, CELI Immigrati B1 / CELI 2 i cittadinanza (Feb/May/Sep)"
+        }
+      ],
+      "dates_2026": [
+        {
+          "sitting": "CELI Immigrati (incl. CELI 2 i cittadinanza)",
+          "exam_date": "2026-09-16",
+          "registration_closes": "2026-08-14"
+        },
+        {
+          "sitting": "CELI Standard",
+          "exam_date": "2026-11-11",
+          "registration_closes": "2026-10-09"
+        }
+      ],
+      "accepted_for": "Italian citizenship (art. 9.1 L. 91/1992): B1 certificate from a recognised body (CELI/Perugia, CILS/Siena, CERT.IT/Roma Tre, PLIDA/Dante Alighieri).",
+      "source_url": "https://www.unistrapg.it/sites/default/files/docs/certificazioni/celi-2-valutazione.pdf",
+      "extra_sources": [
+        "https://www.unistrapg.it/sites/default/files/docs/certificazioni/celi-2-descrizione-prova.pdf",
+        "https://cvcl.unistrapg.it/pagine/iscrizioni-esami-perugia",
+        "https://cvcl.unistrapg.it/pagine/calendario-esami-celi-e-dils-pg-000",
+        "https://www.unistrapg.it/sites/default/files/docs/statuto-regolamenti/regolamento-esami-celi.pdf"
+      ],
+      "practice_url": "https://celi.prep2go.study/celi-2-guide",
+      "verified_on": "2026-10-12"
+    }
+  ],
+  "requirements": [
+    {
+      "country": "PT",
+      "route": "Naturalisation (citizenship)",
+      "level": "A2",
+      "accepted": "CIPLE A2 or higher (CAPLE)",
+      "notes": "Lei Orgânica 1/2026 in force 2026-05-19: residence 7 yrs (CPLP/EU) or 10 yrs (others); adds culture, history, symbols and civic knowledge. Regulation not yet updated at verification date; applies to new applications only.",
+      "source_url": "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "PT",
+      "route": "Residence permits",
+      "level": null,
+      "accepted": null,
+      "notes": "No general language requirement verified for standard residence permits; check AIMA for your route.",
+      "source_url": "https://aima.gov.pt",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "ES",
+      "route": "Nationality by residence",
+      "level": "A2",
+      "accepted": "DELE A2 or higher + CCSE",
+      "notes": "Exemptions exist; check Instituto Cervantes and the Ministerio de Justicia for your case.",
+      "source_url": "https://examenes.cervantes.es/es/ccse/cuanto",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "FR",
+      "route": "First carte de séjour pluriannuelle",
+      "level": "A2",
+      "accepted": "Diploma, professional certification or language test (e.g. DELF A2, TCF/TEF IRN)",
+      "notes": "Since 2026-01-01 (loi du 26 janvier 2024); under 65; civic exam also required.",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34501",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "FR",
+      "route": "First carte de résident / résident longue durée-UE",
+      "level": "B1",
+      "accepted": "Diploma, professional certification or language test",
+      "notes": "Since 2026-01-01; under 65.",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34501",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "FR",
+      "route": "Naturalisation / nationality by marriage",
+      "level": "B2",
+      "accepted": "French diploma, B2+ diploma, or TCF/TEF certificate (<2 years)",
+      "notes": "B2 oral and written since 2026-01-01.",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11926",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "IT",
+      "route": "Citizenship (art. 5 and 9 L. 91/1992)",
+      "level": "B1",
+      "accepted": "B1 from CELI, CILS, CERT.IT, PLIDA (or recognised Italian school diploma)",
+      "notes": "Exempt: holders of EU long-term permit or signatories of the integration agreement.",
+      "source_url": "https://prefettura.interno.gov.it/sites/default/files/84/2025-01/conseguimento_attestato_linguistico_cittadinanza.pdf",
+      "verified_on": "2026-10-12"
+    },
+    {
+      "country": "IT",
+      "route": "EU long-term residence permit",
+      "level": "A2",
+      "accepted": "Prefecture A2 test or A2+ certificate (e.g. CELI 1)",
+      "notes": null,
+      "source_url": "https://prefettura.interno.gov.it/it/prefetture/udine/test-lingua-italiana-a2",
+      "verified_on": "2026-10-12"
+    }
+  ],
+  "prep2go_products": {
+    "mock_pack": "$15 = 3 timed mocks with AI reports + 3 live AI orals (live AI orals for CIPLE only)",
+    "pro": "$27 lifetime, includes 1 timed mock + 1 live AI CIPLE oral",
+    "free_scored_mock": false,
+    "source": "Prep2Go (publisher-provided)"
+  }
+}
