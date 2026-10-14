@@ -1,5 +1,7 @@
 # prep2go-exam-facts
 
+**Interactive demo:** [huggingface.co/spaces/pablo2319/ciple-exam-facts](https://huggingface.co/spaces/pablo2319/ciple-exam-facts)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322073.svg)](https://doi.org/10.5281/zenodo.23322073) [![PyPI](https://img.shields.io/pypi/v/prep2go-exam-facts.svg)](https://pypi.org/project/prep2go-exam-facts/)
 
 [![npm](https://img.shields.io/npm/v/prep2go-exam-facts.svg)](https://www.npmjs.com/package/prep2go-exam-facts)
