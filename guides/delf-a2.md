@@ -22,4 +22,4 @@
 
 *Last verified: 2026-10-12*
 
-Practice: [Prep2Go mocks](https://delf.prep2go.study/delf-a2)
+Practice: [Prep2Go mocks](https://www.prep2go.study/delf-a2)

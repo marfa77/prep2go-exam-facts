@@ -32,4 +32,4 @@
 
 *Last verified: 2026-10-12*
 
-Practice: [Prep2Go mocks](https://dele.prep2go.study/dele-a2)
+Practice: [Prep2Go mocks](https://www.prep2go.study/dele-a2)

@@ -34,4 +34,4 @@
 
 *Last verified: 2026-10-12*
 
-Practice: [Prep2Go mocks](https://celi.prep2go.study/celi-2-guide)
+Practice: [Prep2Go mocks](https://www.prep2go.study/celi-2-guide)

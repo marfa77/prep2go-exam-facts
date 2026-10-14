@@ -29,4 +29,4 @@
 
 *Last verified: 2026-10-12*
 
-Practice: [Prep2Go mocks](https://ciple.prep2go.study/ciple-a2)
+Practice: [Prep2Go mocks](https://www.prep2go.study/ciple-a2)
